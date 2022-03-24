@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrPeters
 - 👀 I’m interested in Django, Vue, and web development;
 - 🌱 I’m currently learning Django Rest Framework;
-- 💞️ I’m looking to collaborate on big projects;
+- 💞️ I’m looking for a international remote job;
 
 <!---
 SrPeters/SrPeters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
