@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Pedro Camaforte, and i'm from Brazil.
-- 👀 I'm fascinated by systems design, frontend, backend, security, database optimization, everithing...
+- 👀 I'm fascinated by systems design, frontend, backend, security, database optimization, everything...
 - 🌱 I’m currently working on some asynchronous systems;
 - 💞️ I’m looking for a international remote job oportunity right now.
 
