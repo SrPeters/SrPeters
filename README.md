@@ -6,7 +6,7 @@
   
 # About me:
 <div>
-  I'm 23 years old, born in Brazil. I have +3 years of experience in web development, and have participated on the conception and creation of more than 10 projects in my current company. One of the projects that I was a co-founder won a national tournment called "Best Performance" in third place. I also built all by myself an authorization, authentication and permission management microsservice for the systems of my company. We were a small team, so I needed to handle backend, frontend, database administration, server deployment, security, performance assurance and team lead.
+  I'm 24 years old, born in Brazil. I have +4 years of experience in web development, and have participated on the conception and creation of more than 10 projects in my current company. One of the projects that I was a co-founder won a national tournment called "Best Performance" in third place. I also built all by myself an authorization, authentication and permission management microsservice for the systems of my company. We were a small team, so I needed to handle backend, frontend, database administration, server deployment, security, performance assurance and team lead.
 </div>
 
 ### Status:
